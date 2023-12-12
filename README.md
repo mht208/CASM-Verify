@@ -37,7 +37,7 @@ The simplest way to install CASM_Verify is to use the Docker Makefile provided i
 
 2) Build Docker image: You can create docker image for CASM_Verify by typing the following command in the terminal,
 ```bash
-docker build -t casmverify github.com/jpl169/CASM_Verify_Artifact
+docker build -t casmverify https://github.com/mht208/CASM-Verify.git
 ```
 
 3) Run casmverify image: To run the docker image, type,
